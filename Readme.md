@@ -3,6 +3,10 @@
 <code>Weekly Dev Breakdown </code><br>
 <!--START_SECTION:waka-->
 
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <code>hi, i'm deep.</code><br>
