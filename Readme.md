@@ -4,11 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Text         56 mins         ██████████████░░░░░░░░░░░   55.51 %
-TypeScript   32 mins         ████████░░░░░░░░░░░░░░░░░   32.18 %
-TOML         8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
-Rust         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
