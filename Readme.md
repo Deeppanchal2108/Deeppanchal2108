@@ -4,8 +4,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         16 mins         █████████████████████░░░░   83.95 %
-TypeScript   3 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.05 %
+TypeScript   20 mins         █████████████▒░░░░░░░░░░░   53.66 %
+Bash         17 mins         ███████████▒░░░░░░░░░░░░░   44.98 %
+Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
