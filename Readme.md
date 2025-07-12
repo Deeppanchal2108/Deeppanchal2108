@@ -15,8 +15,7 @@ TSConfig     0 secs          ░░░░░░░░░░░░░░░░░
 
 <code>hi, i'm deep.</code><br>
 <code>second year university student</code><br><br>
-<code>I’m a developer diving into Web3 while working on full-stack development.</code><br>
-<code>also, i can type pretty fast.</code><br>
+
 
 [![](https://komarev.com/ghpvc/?username=Deeppanchal2108&base=1000&color=ADD8E8)](https://github.com/Deeppanchal2108)
 
