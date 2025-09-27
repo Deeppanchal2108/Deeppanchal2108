@@ -4,10 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   30 mins         █████████████████▒░░░░░░░   68.71 %
-Prisma       12 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.23 %
-Markdown     1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
