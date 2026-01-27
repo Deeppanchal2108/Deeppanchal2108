@@ -10,7 +10,7 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 <code>hi, i'm deep.</code><br>
-<code>second year university student</code><br><br>
+<code>third year university student</code><br><br>
 
 
 [![](https://komarev.com/ghpvc/?username=Deeppanchal2108&base=1000&color=ADD8E8)](https://github.com/Deeppanchal2108)
