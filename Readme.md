@@ -4,7 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   2 hrs 57 mins         ████████████████▒░░░░░░░░   65.73 %
+Prisma       1 hr 14 mins          ███████░░░░░░░░░░░░░░░░░░   27.41 %
+Other        9 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+JSON         7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
