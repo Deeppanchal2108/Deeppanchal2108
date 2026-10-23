@@ -4,8 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash     0 secs                ██████████████████░░░░░░░   72.39 %
-Prisma   0 secs                ███████░░░░░░░░░░░░░░░░░░   27.61 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
